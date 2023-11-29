@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staggs_EmergencyQueue", "Staggs_PriorityQueue\Staggs_EmergencyQueue.csproj", "{12E622C2-1C83-433A-923F-8DB55A3ADA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E622C2-1C83-433A-923F-8DB55A3ADA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E622C2-1C83-433A-923F-8DB55A3ADA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E622C2-1C83-433A-923F-8DB55A3ADA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E622C2-1C83-433A-923F-8DB55A3ADA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F935B08B-8957-417A-83A5-441B6D15D3A8}
+	EndGlobalSection
+EndGlobal
